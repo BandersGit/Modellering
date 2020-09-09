@@ -1,6 +1,6 @@
 using System;
 
-//Får bara skapa variabler och metoder inuti klasser, INGET ANNAT
+//Får bara skapa nya variabler och metoder inuti klasser, INGET ANNAT
 
 public class Football
 {
@@ -9,5 +9,4 @@ public class Football
   public float y;
 
   public float z;
-
 }
